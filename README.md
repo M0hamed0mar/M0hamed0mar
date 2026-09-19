@@ -1,36 +1,126 @@
-Hi, I'm Mohamed Omar
-AI Engineer | LLM & Multi-Agent Systems | Data Scientist
+# Hi, I'm Mohamed Omar
 
-I build production-grade AI systems — from RAG architectures and multi-agent orchestration to cloud deployment on AWS. My work spans the full AI stack: classical Machine Learning and Data Science, Deep Learning, and modern LLM engineering.
+### AI Engineer | LLM & Multi-Agent Systems | Data Scientist
 
-What I Build
-Agentic RAG Systems — LangGraph-powered agents with tool calling, memory, and self-reflection
+I build **production-grade AI systems** across the modern AI stack — from **RAG architectures and multi-agent orchestration** to **cloud deployment on AWS**.
 
-Hybrid Retrieval Pipelines — FAISS + BM25 with RRF fusion and Cross-Encoder reranking
+My work spans **Machine Learning, Data Science, Deep Learning, Computer Vision, NLP, and modern LLM engineering**, with a focus on turning AI concepts into practical, scalable systems.
 
-Multi-Agent LLM Pipelines — specialized agents with critique-and-improvement loops
+---
 
-Production Deployment — Dockerized FastAPI backends on AWS ECS Fargate
+## What I Build
 
-End-to-End Data Science — from EDA and feature engineering to model training and deployment
+### Agentic RAG Systems
 
-Tech Stack
-LLM & Agents: LangChain, LangGraph, RAG, AI Agents, Prompt Engineering, LLM APIs, Hugging Face
+LangGraph-powered AI agents with:
 
-Deep Learning & Computer Vision: PyTorch, TensorFlow, Keras, CNNs, RNNs, LSTMs, GANs, Vision Transformers
+* Tool calling
+* Memory
+* Multi-step reasoning
+* Self-reflection and evaluation
+* Hybrid retrieval
 
-Machine Learning: Scikit-learn, XGBoost, LightGBM, CatBoost, Ensemble Methods, Hyperparameter Tuning, PCA, K-Means, MLflow
+### Hybrid Retrieval Pipelines
 
-Data Science & Analysis: Pandas, NumPy, Feature Engineering, EDA, Statistical Analysis, Matplotlib, Seaborn, Plotly, Dash
+Production-oriented retrieval systems using:
 
-Cloud & DevOps: AWS (ECS Fargate, ECR, ALB, S3, Lambda, CloudWatch), Docker, Docker Compose, FastAPI, Flask, GitHub Actions
+* FAISS
+* BM25
+* Reciprocal Rank Fusion (RRF)
+* Cross-Encoder reranking
 
-Databases & Tools: ChromaDB, FAISS, PostgreSQL, MySQL, SQLite, Git, GitHub, Jupyter, VS Code, Google Colab
+### Multi-Agent LLM Systems
 
-Connect
-LinkedIn: linkedin.com/in/mohamed-omar-eng
+Specialized AI agents working together through:
 
-Email: mohamad.omar.eng@gmail.com
+* Agent orchestration
+* Role-based agent design
+* Critique and improvement loops
+* Tool-based workflows
 
-GitHub: github.com/M0hamed0mar
+### Production AI Deployment
+
+Deploying AI applications with:
+
+* FastAPI
+* Docker
+* AWS ECS Fargate
+* Amazon ECR
+* Application Load Balancer
+* CloudWatch
+
+### End-to-End Data Science
+
+Building complete ML workflows from:
+
+* Exploratory Data Analysis
+* Data preprocessing
+* Feature engineering
+* Model training
+* Evaluation
+* Deployment
+
+---
+
+## Tech Stack
+
+### LLMs & AI Agents
+
+`LangChain` `LangGraph` `RAG` `AI Agents` `Prompt Engineering` `LLM APIs` `Hugging Face`
+
+### Deep Learning & Computer Vision
+
+`PyTorch` `TensorFlow` `Keras` `CNNs` `RNNs` `LSTMs` `GANs` `Vision Transformers`
+
+### Machine Learning
+
+`Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `Ensemble Methods` `Hyperparameter Tuning` `PCA` `K-Means` `MLflow`
+
+### Data Science & Analysis
+
+`Pandas` `NumPy` `Feature Engineering` `EDA` `Statistical Analysis` `Matplotlib` `Seaborn` `Plotly` `Dash`
+
+### Cloud & Backend
+
+`AWS` `ECS Fargate` `ECR` `ALB` `S3` `Lambda` `CloudWatch` `Docker` `Docker Compose` `FastAPI` `Flask` `GitHub Actions`
+
+### Databases & Tools
+
+`PostgreSQL` `MySQL` `SQLite` `ChromaDB` `FAISS` `Git` `GitHub` `Jupyter` `VS Code` `Google Colab`
+
+---
+
+## Featured Interests
+
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Agentic AI
+* Multi-Agent Systems
+* AI Engineering
+* Generative AI
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Natural Language Processing
+* Production AI Systems
+* Cloud AI Infrastructure
+
+---
+
+## Connect With Me
+
+**LinkedIn:**
+[linkedin.com/in/mohamed-omar-eng](https://linkedin.com/in/mohamed-omar-eng)
+
+**Email:**
+[mohamad.omar.eng@gmail.com](mailto:mohamad.omar.eng@gmail.com)
+
+**GitHub:**
+[M0hamed0mar](https://github.com/M0hamed0mar)
+
+---
+
+<p align="center">
+  <i>Building intelligent systems from research concepts to production.</i>
+</p>
 
